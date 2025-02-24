@@ -10,8 +10,18 @@ body {
     height: 100%;
 }
 
-#box {
+#box1 {
     height: 300px;
     width: 300px;
     background-color: crimson;
+}
+#box2 {
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+}
+#box3 {
+    height: 300px;
+    width: 300px;
+    background-color: lightseagreen;
 }
